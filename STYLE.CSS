@@ -1,0 +1,68 @@
+body {
+    text-align: center;
+    background: linear-gradient(#FF5722 0%, #FF80AB 100%);
+    background-repeat: no-repeat;
+}
+
+div {
+    height: 6px;
+    background-color: aqua;
+    width: 150px;
+    margin: 8px auto;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+img {
+    border-radius: 50%;
+    width: 20%;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18px;
+}
+
+.menu {
+    list-style: none;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: aquamarine;
+}
+
+#book {
+    color: aquamarine;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.link{
+    display: inline;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+}
+ 
+a{
+    text-decoration: none;
+}
+
+a{
+    color: aquamarine;
+}
+img{
+ height: 300px;
+}
+#book{
+    background: tomato;
+}
+#work{
+    background: blue;
+}
