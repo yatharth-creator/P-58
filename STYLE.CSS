@@ -42,27 +42,38 @@ html {
     scroll-behavior: smooth;
 }
 
-.link{
+.link {
     display: inline;
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 9px;
     padding-right: 9px;
 }
- 
-a{
+
+a {
     text-decoration: none;
 }
 
-a{
+a {
     color: aquamarine;
 }
-img{
- height: 300px;
+
+img {
+    height: 300px;
 }
-#book{
+
+#book {
     background: tomato;
 }
-#work{
+
+#work {
     background: blue;
+}
+
+i {
+    background-color: black;
+}
+
+.contact a {
+    color: red;
 }
